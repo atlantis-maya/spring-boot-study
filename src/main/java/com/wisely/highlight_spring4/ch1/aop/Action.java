@@ -7,14 +7,14 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
-* @author 朱赫    EmailAddress:zhuhe.6@163.com
-* @version JDK1.8
-* @createtime 2016年8月19日 下午9:35:59
-* 
-*/
+ * @author 朱赫 EmailAddress:zhuhe.6@163.com
+ * @version JDK1.8
+ * @createtime 2016年8月19日 下午9:35:59
+ * 
+ */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
 @Documented
 public @interface Action {
-       String name();
+	String name();
 }

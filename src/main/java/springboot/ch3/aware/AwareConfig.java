@@ -4,7 +4,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author 朱赫    EmailAddress:zhuhe.6@163.com
+ * @author 朱赫 EmailAddress:zhuhe.6@163.com
  * @version JDK1.8
  * @createtime 2016年10月12日 下午10:42:11
  * 
